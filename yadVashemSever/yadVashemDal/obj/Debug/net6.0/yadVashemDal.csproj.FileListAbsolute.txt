@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\bin\Debug\net6.0\yadVashemDal.deps.json
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\bin\Debug\net6.0\yadVashemDal.dll
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\bin\Debug\net6.0\yadVashemDal.pdb
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\bin\Debug\net6.0\Entities.dll
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\bin\Debug\net6.0\Entities.pdb
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\yadVashemDal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\yadVashemDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\yadVashemDal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\yadVashemDal.AssemblyInfo.cs
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\yadVashemDal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\yadVashemDal.csproj.CopyComplete
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\yadVashemDal.dll
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\refint\yadVashemDal.dll
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\yadVashemDal.pdb
+C:\Users\User\Desktop\yadVashem_shop\yadVashemSever\yadVashemDal\obj\Debug\net6.0\ref\yadVashemDal.dll
